@@ -4,4 +4,4 @@ Hi, I am Snigdha Singh👋
 - I’m currently learning Data Structures and Algorithm, Frontend Development and CS Fundamentals.
 - I’m looking to collaborate on Software Roles.
 - I’ve also worked on Augmented Reality.
-- 📫 How to reach me: snigdhasingh3008@gmail.com
+- How to reach me: snigdhasingh3008@gmail.com
